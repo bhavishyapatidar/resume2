@@ -123,6 +123,11 @@
         </div>
         </div>            
     </section>
+        <section class="resume contain">
+        <h2>Resume</h2>
+        <a href="https://drive.google.com/file/d/16HtMGk4Ps2jn7RDnrEnVoXnXGsYkRMVF/view?usp=drive_link" class="eighty-percent skill-progress">&nbsp; Download My Resume</a>
+    </section>
+    
     <section id="experience">
 
         <h1 class="section-heading mb75px">
@@ -178,7 +183,7 @@
                     <h4 class="experience-company-name "> NIT Raipur </h4>
                     <h5 class="experience-duration m0"> Aug-2022 - April-2025</h5>
 
-                    <p class="experience-description text-align-justify"> I am pursuing MCA from nit raipur. </p>
+                    <p class="experience-description text-align-justify">I am currently pursuing a Master of Computer Applications (MCA) degree at the National Institute of Technology (NIT) Raipur. This program is providing me with the opportunity to develop advanced skills in computer science and its various applications. Through this rigorous curriculum, I am gaining in-depth knowledge and practical experience in the field. The program is equipping me with the expertise needed to tackle complex problems and innovate in the technology sector. As a result, I am confident that my education at NIT Raipur will prepare me for a successful career in the tech industry. </p>
                 </div>
             </div>
             
@@ -189,7 +194,7 @@
                     <h3 class="experience-designation   m-blue"> Graduation </h3>
                     <h4 class="experience-company-name ">Christian eminent college </h4>
                     <h5 class="experience-duration m0"> july 2018- April-2021 </h5>
-                    <p class="experience-description text-align-justify"> I had studied bachelor of computer application(BCA). </p>
+                    <p class="experience-description text-align-justify"> I completed a Bachelor of Computer Application (BCA) degree. This program provided me with a strong foundation in computer science and information technology. Through it, I gained extensive knowledge and practical skills in software development, programming, and system management. </p>
                 </div>
             </div>
 
@@ -201,7 +206,7 @@
                     <h4 class="experience-company-name "> kamla sagar HS school </h4>
                     <h5 class="experience-duration m0"> july 2016 - may 2018 </h5>
 
-                    <p class="experience-description text-align-justify"> That was the first time of my life when i make a lot of friends.</p>
+                    <p class="experience-description text-align-justify"> That was the first time in my life when I made a lot of friends. Before that moment, I had never experienced such a strong sense of belonging and camaraderie. It felt wonderful to connect with so many people and build lasting friendships.</p>
                 </div>
             </div>
             
